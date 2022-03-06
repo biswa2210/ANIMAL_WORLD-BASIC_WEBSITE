@@ -76,7 +76,7 @@ I have made this website using html5 wth resources of animals.
      
 <a href="pics/an7.PNG"><img src="pics/an7.PNG" width="400" height= "300"></a> <a href="pics/an8.PNG"><img src="pics/an8.PNG" width="400" height= "300"></a>
      
-<a href="pics/an9.PNG"><img src="pics/an9.PNG" width="400" height= "300"></a> <a href="pics/an10.PNG"><img src="pics/an10.NG" width="400" height= "300"></a>
+<a href="pics/an9.PNG"><img src="pics/an9.PNG" width="400" height= "300"></a> <a href="pics/an10.PNG"><img src="pics/an10.PNG" width="400" height= "300"></a>
 
 </div>
 
