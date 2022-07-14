@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) 
 
-***This new WebSite named 'ANKIMAL-WORLD-FESTIVALS' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new WebSite named 'ANIMAL-WORLD-FESTIVALS' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
