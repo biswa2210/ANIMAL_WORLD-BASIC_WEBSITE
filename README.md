@@ -18,6 +18,10 @@
 
 This is a simple static website which contains different web pages on snakes, dynasours, wild animals, sea world and guns and weapons. This is an interesting and simple website which is made uing html. I have collected some resources on animals and designed the web pages using html.
 
+## ANIMAL WORLD DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=iAIqvdWZv-0&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5&index=13">Click here to watch</a>
+
+## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
+
 ## LINK of full project: :point_right: https://biswa2210.github.io/ANIMAL_WORLD-BASIC_WEBSITE/main.html. 
 
 ## Purpose :point_down:
